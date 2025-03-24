@@ -4,7 +4,7 @@
 
 RemoteSyncFS is a distributed file system implementation using FUSE (Filesystem in Userspace) that provides transparent access to remote files. It automatically synchronizes file contents between local and remote machines, giving users the illusion of working with local files while keeping the content synchronized across systems.
 
-![image](https://github.com/user-attachments/assets/6dcf9c2b-0d3d-452d-a0a1-a8f0a4bdcfe6)
+<img width="678" alt="Screenshot 2025-03-23 at 10 35 29 PM" src="https://github.com/user-attachments/assets/2185de12-f8d8-49c5-a7f8-c50ac6e8b663" />
 
 ## Features
 
